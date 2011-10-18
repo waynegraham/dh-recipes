@@ -1,0 +1,7 @@
+Gemfile.lock
+.sass-cache
+.rvmrc
+config/database.yml
+
+bin
+.bundle
